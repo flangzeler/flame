@@ -57,7 +57,7 @@ Designed for:
 
 ## 📦 Installation
 
-### Option 1: Add as subdirectory
+
 
 ```cmake
 add_subdirectory(flame_math)
